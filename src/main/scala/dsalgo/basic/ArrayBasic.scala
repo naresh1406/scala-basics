@@ -1,4 +1,4 @@
-package dsalgo.array
+package dsalgo.basic
 
 /**
  * Created by ngupta on 28/10/2019 AD.

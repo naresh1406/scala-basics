@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="008d1321-908d-49b4-86dd-5360e412fe6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FirstProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/HelloWorld.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/FirstProgram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/HelloWorld$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/HelloWorld$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/scala-basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scala-basics.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0510b07d644c4dd9200e$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0510b07d644c4dd9200e.cache" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$339db571976f85014100.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0510b07d644c4dd9200e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$53e63614d9c996b417a9$.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$339db571976f85014100$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$53e63614d9c996b417a9.cache" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$3e7bee4b75c70f94a9ae.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$53e63614d9c996b417a9.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$339db571976f85014100.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cb2a58f1aa87de296665$.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$a5b049db9bdcd59313e5$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cb2a58f1aa87de296665.cache" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$a5b049db9bdcd59313e5.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cb2a58f1aa87de296665.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$3e7bee4b75c70f94a9ae.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cd9ecde188b3370df5ba$.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$3e7bee4b75c70f94a9ae$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cd9ecde188b3370df5ba.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cd9ecde188b3370df5ba.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/config-classes/$a5b049db9bdcd59313e5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/dsalgo/array/ArrayBasic.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/dsalgo/basic/ArrayBasic.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +49,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -96,10 +67,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
-    <configuration name="FirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstProgram" />
+  <component name="RunManager" selected="Application.MapBasic">
+    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dsalgo.basic.ArraySum" />
       <module name="scala-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsalgo.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,18 +88,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="ListBasic" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dsalgo.basic.ListBasic" />
       <module name="scala-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsalgo.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapBasic" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dsalgo.basic.MapBasic" />
+      <module name="scala-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsalgo.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeqBasic" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="dsalgo.basic.SeqBasic" />
+      <module name="scala-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsalgo.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapBasic" />
+        <item itemvalue="Application.SeqBasic" />
+        <item itemvalue="Application.ListBasic" />
+        <item itemvalue="Application.ArraySum" />
         <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.FirstProgram" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -180,6 +191,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572258425177</updated>
       <workItem from="1572258428372" duration="1162000" />
+      <workItem from="1572458037824" duration="549000" />
     </task>
     <servers />
   </component>
@@ -191,7 +203,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
